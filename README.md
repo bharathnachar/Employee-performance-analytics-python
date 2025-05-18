@@ -107,9 +107,10 @@ Filtered and displayed employees whose **City name contains the letter 'o'**.
 
 ## 📁 Files Included
 
-- `employee.csv` – Cleaned employee data  
-- `designation.csv` – Seniority data  
-- `project.csv` – Project cost and status  
+- `employee_data.xls` – Cleaned employee data  
+- `designation_level_data.xls` – Seniority data  
+- `project_data.xls` – Project cost and status
+- `total_project_cost.xls` – Total Project summary
 - `pythoncapstone (1).ipynb` – All code with detailed comments and output
 
 ---
