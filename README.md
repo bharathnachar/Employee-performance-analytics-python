@@ -110,7 +110,7 @@ Filtered and displayed employees whose **City name contains the letter 'o'**.
 - `employee.csv` – Cleaned employee data  
 - `designation.csv` – Seniority data  
 - `project.csv` – Project cost and status  
-- `capstone_project.ipynb` – All code with detailed comments and output
+- `pythoncapstone (1).ipynb` – All code with detailed comments and output
 
 ---
 
